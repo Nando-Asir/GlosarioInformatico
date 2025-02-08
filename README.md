@@ -1,7 +1,5 @@
 # 📜 Glosario Informático 🖥️
 
----
-
 ## 📌 Redes y Direccionamiento
 
 - **🌍 IP**: Dirección única que identifica un dispositivo en una red, permitiendo su comunicación con otros dispositivos. Existen direcciones:
