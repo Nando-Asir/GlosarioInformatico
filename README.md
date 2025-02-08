@@ -68,6 +68,9 @@
 - **🖥️ Proxmox**: Plataforma de virtualización de código abierto basada en Debian para gestionar máquinas virtuales y contenedores.
   - 💡 *Ejemplo práctico*: Un administrador usa Proxmox para crear y gestionar servidores virtuales en una empresa.
 
+- **🌐 Servicio Web (Apache, Nginx)**: Aplicaciones que permiten alojar y servir sitios web en internet o intranet.
+  - 💡 Ejemplo práctico: Un administrador instala Apache en un servidor Linux para alojar el sitio web corporativo de la empresa.
+
 - **🛠️ DevOps**: Conjunto de prácticas que integran desarrollo de software y operaciones de TI, agilizando la entrega de software.
   - 💡 *Ejemplo práctico*: Un equipo DevOps automatiza la entrega de software usando herramientas como Docker y Kubernetes.
 
