@@ -11,7 +11,7 @@
   - 💡 *Ejemplo práctico*: En lugar de recordar la IP `8.8.8.8`, se usa `google.es` para acceder a Google.
 
 - **🌐 URL**: Dirección completa para acceder a recursos en internet, incluyendo el protocolo, dominio y ruta.
-  - 💡 *Ejemplo práctico*: `https://github.com/Nando-Asir` lleva a la página de mi usuario en GitHub.
+  - 💡 *Ejemplo práctico*: `[https://github.com/Nando-Asir](https://github.com/Nando-Asir)` lleva a la página de mi usuario en GitHub.
 
 - **🎯 DNS (Sistema de Nombres de Dominio)**: Convierte nombres de dominio en direcciones IP, facilitando la navegación en internet.
   - 💡 *Ejemplo práctico*: Un administrador de sistemas configura un servidor DNS interno para que los empleados puedan acceder a aplicaciones con nombres amigables en lugar de IPs.
