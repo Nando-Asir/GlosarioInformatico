@@ -30,7 +30,7 @@
   - **🔄 HTTP vs HTTPS**:
     - **HTTP**: Protocolo sin cifrado (puerto 80).
     - **HTTPS**: Versión segura con cifrado TLS/SSL (puerto 443).
-    - 💡 *Ejemplo práctico*: Un administrador migra el sitio web de la empresa de HTTP a HTTPS para mejorar la seguridad de los datos transmitidos.
+      - 💡 *Ejemplo práctico*: Un administrador migra el sitio web de la empresa de HTTP a HTTPS para mejorar la seguridad de los datos transmitidos.
   
   - **SSH**: Protocolo de comunicación seguro que permite la administración remota de servidores y dispositivos mediante una conexión cifrada.
     - 💡 *Ejemplo práctico*: Un administrador accede por SSH a un servidor Linux para actualizar software sin necesidad de estar físicamente en la empresa.
