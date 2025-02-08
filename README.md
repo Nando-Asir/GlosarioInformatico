@@ -4,16 +4,16 @@
 - **Dominio**: Es un nombre amigable que se usa para identificar direcciones IP en internet.
 - **URL**: Es la dirección completa que se usa para acceder a recursos en internet, incluyendo el protocolo, dominio y ruta
 - **Puerto (21, 22, 80, 443)**: Es un número lógico que identifica un servicio específico en un dispositivo conectado a una red. Algunos puertos comunes son:
-  - 21: FTP (Transferencia de archivos)
-  - 22: SSH (Acceso remoto seguro)
-  - 80: HTTP (Navegación web sin cifrar)
-  - 443: HTTPS (Navegación web segura)
+  - *21*: FTP (Transferencia de archivos)
+  - *22*: SSH (Acceso remoto seguro)
+  - *80*: HTTP (Navegación web sin cifrar)
+  - *443*: HTTPS (Navegación web segura)
 - **Servicio de Directorio**: Es un sistema que almacena, organiza y gestiona información sobre usuarios, equipos y recursos dentro de una red, facilitando la autenticación y administración de permisos.
 - **OpenLdap**: Es una implementación de código abierto del protocolo LDAP (Lightweight Directory Access Protocol) que permite gestionar usuarios y recursos en una red.
 - **Active Directory**: Es el servicio de directorio de Microsoft que permite gestionar usuarios, grupos y permisos en una red basada en Windows.
 - **Diferencia entre HTTP y HTTPS**:
-  - HTTP: Protocolo de transferencia de hipertexto sin cifrado (usa el puerto 80).
-  - HTTPS: Versión segura que cifra los datos con TLS/SSL (usa el puerto 443). 
+  - *HTTP*: Protocolo de transferencia de hipertexto sin cifrado (usa el puerto 80).
+  - *HTTPS*: Versión segura que cifra los datos con TLS/SSL (usa el puerto 443). 
 - **Servicio DNS**: Convierte nombres de dominio en direcciones IP, facilitando la navegación en internet.
 - **Servicio Web (Apache, nginx)**: Aplicaciones que permiten alojar y servir sitios web en internet o intranet. Apache y Nginx son dos de los servidores web más utilizados.
 - **Protocolo**: Conjunto de reglas que definen cómo se comunican los dispositivos en una red (ejemplo: TCP/IP, HTTP, FTP, SSH).
