@@ -1,22 +1,28 @@
 # GlosarioInformatico
 
-IP, 
-Dominio, 
-URL, 
-Puerto (21, 22, 80, 443), 
-Servicio de directorio, 
-OpenLdap, 
-Active Directory, 
-Diferencia entre http y https, 
-Servicio DNS, 
-Servicio Web (Apache, nginx), 
-Protocolo, 
-RDP, 
-SSH, 
-Cloud, 
-AWS, 
-Proxmox, 
-Google Cloud, 
-Azure, 
-Administrador, 
-Devops,
+- IP: Es una dirección única que identifica a un dispositivo en una red, permitiendo su comunicación con otros dispositivos. Existen direcciones IPv4 (ejemplo: 192.168.1.1) e IPv6 (ejemplo: 2001:db8::ff00:42:8329).
+- Dominio: Es un nombre amigable que se usa para identificar direcciones IP en internet.
+- URL: Es la dirección completa que se usa para acceder a recursos en internet, incluyendo el protocolo, dominio y ruta
+- Puerto (21, 22, 80, 443): Es un número lógico que identifica un servicio específico en un dispositivo conectado a una red. Algunos puertos comunes son:
+  - 21: FTP (Transferencia de archivos)
+  - 22: SSH (Acceso remoto seguro)
+  - 80: HTTP (Navegación web sin cifrar)
+  - 443: HTTPS (Navegación web segura)
+- Servicio de directorio: Es un sistema que almacena, organiza y gestiona información sobre usuarios, equipos y recursos dentro de una red, facilitando la autenticación y administración de permisos.
+- OpenLdap: Es una implementación de código abierto del protocolo LDAP (Lightweight Directory Access Protocol) que permite gestionar usuarios y recursos en una red.
+- Active Directory: Es el servicio de directorio de Microsoft que permite gestionar usuarios, grupos y permisos en una red basada en Windows.
+- Diferencia entre http y https:
+  - HTTP: Protocolo de transferencia de hipertexto sin cifrado (usa el puerto 80).
+  - HTTPS: Versión segura que cifra los datos con TLS/SSL (usa el puerto 443). 
+- Servicio DNS: Convierte nombres de dominio en direcciones IP, facilitando la navegación en internet.
+- Servicio Web (Apache, nginx): Aplicaciones que permiten alojar y servir sitios web en internet o intranet. Apache y Nginx son dos de los servidores web más utilizados.
+- Protocolo: Conjunto de reglas que definen cómo se comunican los dispositivos en una red (ejemplo: TCP/IP, HTTP, FTP, SSH).
+- RDP: Protocolo de Microsoft para acceder remotamente a escritorios Windows.
+- SSH: Protocolo seguro para acceder y administrar dispositivos de forma remota por línea de comandos.
+- Cloud: Tecnología que permite el acceso a servicios de almacenamiento y computación a través de internet sin necesidad de infraestructura física propia.
+- AWS: Plataforma de servicios en la nube de Amazon que ofrece almacenamiento, bases de datos, servidores y más.
+- Proxmox: Plataforma de virtualización de código abierto basada en Debian que permite gestionar máquinas virtuales y contenedores.
+- Google Cloud: Plataforma en la nube de Google que ofrece servicios de computación, almacenamiento y bases de datos.
+- Azure: Plataforma de servicios en la nube de Microsoft que ofrece infraestructura, bases de datos y herramientas de desarrollo.
+- Administrador: Persona encargada de gestionar y mantener sistemas informáticos, redes o plataformas. 
+- Devops: Cultura y conjunto de prácticas que integran desarrollo (Dev) y operaciones (Ops) para agilizar la entrega de software mediante automatización y colaboración.
