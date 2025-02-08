@@ -23,7 +23,7 @@
   - **22**: 🔐 SSH (Acceso remoto seguro)
   - **80**: 🌍 HTTP (Navegación web sin cifrar)
   - **443**: 🔒 HTTPS (Navegación web segura)
-  - 💡 *Ejemplo práctico*: Un administrador abre el puerto 22 en un firewall para permitir el acceso remoto seguro a los servidores.
+    - 💡 *Ejemplo práctico*: Un administrador abre el puerto 22 en un firewall para permitir el acceso remoto seguro a los servidores.
 
 - **🔀 Protocolo**: Conjunto de reglas que definen cómo se comunican los dispositivos en una red. Ejemplos:
 
