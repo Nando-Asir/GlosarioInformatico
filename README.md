@@ -1,4 +1,4 @@
-# GlosarioInformatico
+# 📜 Glosario Informatico 🖥️
 
 - IP: Es una dirección única que identifica a un dispositivo en una red, permitiendo su comunicación con otros dispositivos. Existen direcciones IPv4 (ejemplo: 192.168.1.1) e IPv6 (ejemplo: 2001:db8::ff00:42:8329).
 - Dominio: Es un nombre amigable que se usa para identificar direcciones IP en internet.
@@ -8,10 +8,10 @@
   - 22: SSH (Acceso remoto seguro)
   - 80: HTTP (Navegación web sin cifrar)
   - 443: HTTPS (Navegación web segura)
-- Servicio de directorio: Es un sistema que almacena, organiza y gestiona información sobre usuarios, equipos y recursos dentro de una red, facilitando la autenticación y administración de permisos.
+- Servicio de Directorio: Es un sistema que almacena, organiza y gestiona información sobre usuarios, equipos y recursos dentro de una red, facilitando la autenticación y administración de permisos.
 - OpenLdap: Es una implementación de código abierto del protocolo LDAP (Lightweight Directory Access Protocol) que permite gestionar usuarios y recursos en una red.
 - Active Directory: Es el servicio de directorio de Microsoft que permite gestionar usuarios, grupos y permisos en una red basada en Windows.
-- Diferencia entre http y https:
+- Diferencia entre HTTP y HTTPS:
   - HTTP: Protocolo de transferencia de hipertexto sin cifrado (usa el puerto 80).
   - HTTPS: Versión segura que cifra los datos con TLS/SSL (usa el puerto 443). 
 - Servicio DNS: Convierte nombres de dominio en direcciones IP, facilitando la navegación en internet.
