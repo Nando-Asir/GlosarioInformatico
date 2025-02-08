@@ -5,7 +5,7 @@
 - **🌍 IP**: Dirección única que identifica un dispositivo en una red, permitiendo su comunicación con otros dispositivos. Existen direcciones:
   - **IPv4**: Ejemplo: `192.168.1.1`
   - **IPv6**: Ejemplo: `2001:db8::ff00:42:8329`
-  - 💡 *Ejemplo práctico*: Un administrador de sistemas asigna direcciones IP a los servidores de una empresa para que puedan comunicarse en la red corporativa.
+    - 💡 *Ejemplo práctico*: Un administrador de sistemas asigna direcciones IP a los servidores de una empresa para que puedan comunicarse en la red corporativa.
 
 - **🔗 Dominio**: Nombre amigable que se usa para identificar direcciones IP en internet.
   - 💡 *Ejemplo práctico*: En lugar de recordar la IP `142.250.184.78`, se usa `google.com` para acceder a Google.
